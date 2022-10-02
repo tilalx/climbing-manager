@@ -12,7 +12,7 @@ if(!isset($_SESSION["username"])){
     <title></title>
   </head>
   <body>
-    <h1>Top Secret</h1>
+    <h1>Login Success</h1>
     <a href="logout.php">Abmelden</a>
   </body>
 </html>
