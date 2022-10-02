@@ -38,6 +38,6 @@
       <button type="submit" name="submit">Erstellen</button>
     </form>
     <br>
-    <a href="index.php">Hast du bereits einen Account?</a>
+    <a href="login.php">Hast du bereits einen Account?</a>
   </body>
 </html>
