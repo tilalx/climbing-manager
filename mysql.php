@@ -1,8 +1,8 @@
 <?php
-$host = "db.aelx.de";
-$name = "climb";
+$host = "192.168.178.39";
+$name = "climbing-manager";
 $user = "climb";
-$passwort = "5bLQ93v39iSyHd3i";
+$passwort = "";
 try{
     $mysql = new PDO("mysql:host=$host;dbname=$name", $user, $passwort);
 } catch (PDOException $e){
